@@ -10,23 +10,6 @@
   <img src="https://img.shields.io/badge/nginx-e78f66?style=for-the-badge&logo=nginx&logoColor=white" />
 <p>
   &nbsp;
- <h2 align="left">👩🏼‍💻 About Me:</h2> 
-
- - 👩🏼‍🔬 Now, I am working for a product company that develops learning management systems (LMS) and similar systems using the Django framework.
- - 🦜 To improve my professional practice, I am taking a course on asynchronous architecture and  developing my own personal project based on this topic:
- &nbsp;&nbsp;<p> 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alstacon&repo=aTES&title_color=7f74a3&cache_seconds=30)](https://github.com/Alstacon/aTES)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-   
- - 👩🏼‍🎓 I’m currently also:
-      -  ~~Suffer over~~ Study algorithms and Data Structures
-      &nbsp;&nbsp;<p>
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=alstacon)](https://github.com/KnlnKS/leetcode-stats)
-      - Deepening my knowledge about databases
-      - Rolling into asynchronous programming
-    
- - 🎠 What is also in my liking: History, Video Games and Equestrian Sports.
    
 
 &nbsp;
